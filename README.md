@@ -32,17 +32,14 @@
 
 ### 💻 ꜱᴏᴄɪᴀʟꜱ
 
-<p align="left"> <a href="https://discord.com/users/Kisu X3#1654" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />Kisu X3#1654</a>
+<p align="left"> <a href="https://discord.com/users/Kisu X3#1654" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <br>
 <a href="https://www.facebook.com/profile.php?id=100081792189966" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <br>
 <a href="https://www.github.com/PUKAN223" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
 
 <a href="https://github.com/PUKAN223" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUKAN223&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/PUKAN223/Linux-server" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PUKAN223&repo=Linux-server&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />

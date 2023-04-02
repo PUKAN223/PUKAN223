@@ -1,14 +1,14 @@
 😁 ɪɴᴛʀᴏᴅᴜᴄᴇ 😉
 ==============================================================================================================================
 
-💻 ᴀʙᴏᴜᴛ ᴍᴇ 📃
+🔎 ᴀʙᴏᴜᴛ ᴍᴇ
 --------------
 
 * 🔖ɴᴀᴍᴇ : 𝙿𝚑𝚞𝚔𝚊𝚗
 * ⌛ᴀɢᴇ : 15 𝚈
 * 🎓ɢᴇɴᴅᴇʀ : 𝙼𝚊𝚕𝚎
 
-📋 ɪɴꜰᴏ 🧾
+📋 ɪɴꜰᴏ
 --------------
 
 * 🌍  I'm based in ɴᴀᴋʜᴏɴ ꜱɪ ᴛʜᴀᴍᴍᴀʀᴀᴛ
@@ -30,9 +30,11 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
-### Socials
+### 💻 ꜱᴏᴄɪᴀʟꜱ
 
-<p align="left"> <a href="https://discord.com/users/Kisu XThree" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/profile.php?id=100081792189966" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/PUKAN223" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Kisu XThree" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/profile.php?id=100081792189966" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/PUKAN223" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+</p>
+
 ### Badges
 
 <a href="https://github.com/PUKAN223" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUKAN223&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

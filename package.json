@@ -1,0 +1,19 @@
+{
+  "name": "market",
+  "version": "1.0.0",
+  "description": "Market Online Addon For Minecraft Bedrock",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PUKAN223/PUKAN223.git"
+  },
+  "author": "KisuX3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PUKAN223/PUKAN223/issues"
+  },
+  "homepage": "https://github.com/PUKAN223/PUKAN223#readme"
+}

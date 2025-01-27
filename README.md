@@ -16,7 +16,7 @@
 
 ### ✨ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇ
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cpp,arduino,nextjs,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,cpp,arduino,nextjs)](https://skillicons.dev)
 
 ### 💻 ꜱᴏᴄɪᴀʟꜱ
 

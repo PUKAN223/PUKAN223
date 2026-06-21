@@ -1,26 +1,79 @@
-😁 ɪɴᴛʀᴏᴅᴜᴄᴇ 😉
-==============================================================================================================================
+<h1 align="center">Hi, I'm Phukan</h1>
 
-🔎 ᴀʙᴏᴜᴛ ᴍᴇ
---------------
+<p align="center">
+  <strong>Beginner Full-Stack Developer</strong>
+</p>
 
-* 🔖ɴᴀᴍᴇ : 𝙿𝚑𝚞𝚔𝚊𝚗
-* ⌛ᴀɢᴇ : 16 𝚈
-* 🎓ɢᴇɴᴅᴇʀ : 𝙼𝚊𝚕𝚎
+<p align="center">
+  I enjoy coding in my free time and building projects that improve my daily life.  
+  I’m always learning new technologies and improving my development skills.
+</p>
 
-📋 ɪɴꜰᴏ
---------------
+---
 
-* ❗ ʟᴏᴄᴀᴛɪᴏɴ: ɴᴀᴋʜᴏɴ ꜱɪ ᴛʜᴀᴍᴍᴀʀᴀᴛ
-* ✉️ ᴄᴏɴᴛᴀᴄᴛ: [𝖪𝗂𝗌𝗎𝖷𝟥](mailto:Pukan221bill@gmail.com)
+## <img src="https://api.iconify.design/lucide:user.svg?color=%23ffffff" width="22" height="22" valign="middle"> About Me
 
-### ✨ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʟᴀɴɢᴜᴀɢᴇ
+- <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23ffffff" width="16" height="16" valign="middle"> **Student:** SCIUS Student
+- <img src="https://api.iconify.design/lucide:map-pin.svg?color=%23ffffff" width="16" height="16" valign="middle"> **Location:** Thailand
+- <img src="https://api.iconify.design/lucide:code-2.svg?color=%23ffffff" width="16" height="16" valign="middle"> **Role:** Beginner Full-Stack Developer
+- <img src="https://api.iconify.design/simple-icons:archlinux.svg?color=%23ffffff" width="16" height="16" valign="middle"> **OS:** Arch Linux User
+- <img src="https://api.iconify.design/lucide:cpu.svg?color=%23ffffff" width="16" height="16" valign="middle"> **Interest:** Developer tools, automation, web development
+- <img src="https://api.iconify.design/lucide:sparkles.svg?color=%23ffffff" width="16" height="16" valign="middle"> **Learning:** Always improving and exploring new technologies
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cpp,arduino,nextjs)](https://skillicons.dev)
+---
 
-### 💻 ꜱᴏᴄɪᴀʟꜱ
+## <img src="https://api.iconify.design/lucide:terminal.svg?color=%23ffffff" width="22" height="22" valign="middle"> Tech Stack
 
-<p align="left"> <a href="https://discord.com/users/Kisu X3#1654" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.facebook.com/profile.php?id=100081792189966" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/PUKAN223" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,c,html,css,json" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,deno,express,supabase" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,mongodb,firebase" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,arch,git,github,vscode,npm" />
+</p>
+
+---
+
+## <img src="https://api.iconify.design/lucide:link.svg?color=%23ffffff" width="22" height="22" valign="middle"> Connect
+
+<p>
+<a href="mailto:Pukan221bill@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="42">
+</a>
+
+<a href="https://github.com/PUKAN223">
+  <img src="https://skillicons.dev/icons?i=github" height="42">
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100081792189966">
+  <img src="https://skillicons.dev/icons?i=facebook" height="42">
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Code • Learn • Build • Improve</i>
 </p>

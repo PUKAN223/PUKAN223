@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Phukan</h1>
+<!-- Typing Header Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Phukan;" />
+</p>
 
 <p align="center">
   <strong>Beginner Full-Stack Developer</strong>
@@ -14,6 +17,7 @@
 ## <img src="https://api.iconify.design/lucide:user.svg?color=%23ffffff" width="22" height="22" valign="middle"> About Me
 
 - <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23ffffff" width="16" height="16" valign="middle"> **Student:** SCIUS Student
+- <img src="https://api.iconify.design/lucide:trophy.svg?color=%23ffffff" width="16" height="16" valign="middle"> **Olympiad:** Computer Olympiad (OCOM II)
 - <img src="https://api.iconify.design/lucide:map-pin.svg?color=%23ffffff" width="16" height="16" valign="middle"> **Location:** Thailand
 - <img src="https://api.iconify.design/lucide:code-2.svg?color=%23ffffff" width="16" height="16" valign="middle"> **Role:** Beginner Full-Stack Developer
 - <img src="https://api.iconify.design/simple-icons:archlinux.svg?color=%23ffffff" width="16" height="16" valign="middle"> **OS:** Arch Linux User
